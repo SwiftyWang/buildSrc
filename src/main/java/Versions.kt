@@ -25,9 +25,14 @@ object Versions {
     const val ANDROIDX_CONSTRAINT = "1.1.3"
     const val ANDROIDX_CARD_VIEW = "1.0.0"
     const val ANDROIDX_MULTIDEX = "2.0.1"
+    const val ANDROIDX_KOTLIN = "1.3.0"
+    const val ANDROIDX_LIFECYCLE = "2.2.0"
+    const val ANDROIDX_JUNIT = "1.1.1"
+    const val ANDROIDX_EXPRESSO = "3.2.0"
+    const val ANDROIDX_HILT = "1.0.0-alpha01"
+    const val ANDROIDX_KTX_FRAGMENT = "1.2.5"
+    const val ANDROIDX_KTX_RX_TO_LIVEDATA = "2.2.0"
 
-    const val ANDROID_JUNIT = "1.1.1"
-    const val ANDROID_EXPRESSO = "3.2.0"
     const val ANDROID_BILLING_CLIENT = "3.0.0"
 
     const val RX_JAVA = "2.2.19"
