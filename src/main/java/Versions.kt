@@ -32,6 +32,7 @@ object Versions {
     const val ANDROIDX_HILT = "1.0.0-alpha01"
     const val ANDROIDX_KTX_FRAGMENT = "1.2.5"
     const val ANDROIDX_KTX_RX_TO_LIVEDATA = "2.2.0"
+    const val ANDROIDX_NAVIGATION = "2.3.0"
 
     const val ANDROID_BILLING_CLIENT = "3.0.0"
 
