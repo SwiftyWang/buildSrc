@@ -40,6 +40,8 @@ object Versions {
 
     const val RX_JAVA = "2.2.19"
     const val RX_ANDROID = "2.1.1"
+    const val RX_JAVA3 = "3.0.4"
+    const val RX_ANDROID3 = "3.0.0"
 
     const val FIREBASE_ADS = "19.2.0"
 
