@@ -35,7 +35,8 @@ object Versions {
     const val ANDROIDX_NAVIGATION = "2.3.0"
     const val ANDROIDX_VIEWPAGER2 = "1.0.0"
     const val ANDROIDX_SUPPORT_V4 = "1.0.0"
-
+    const val ANDROIDX_ROOM = "2.2.5"
+    
     const val ANDROID_BILLING_CLIENT = "3.0.0"
 
     const val RX_JAVA = "2.2.19"
