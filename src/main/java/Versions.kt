@@ -36,15 +36,17 @@ object Versions {
     const val ANDROIDX_VIEWPAGER2 = "1.0.0"
     const val ANDROIDX_SUPPORT_V4 = "1.0.0"
     const val ANDROIDX_ROOM = "2.2.5"
-    
+    const val ANDROIDX_MEDIA = "1.1.0"
+
     const val ANDROID_BILLING_CLIENT = "3.0.0"
 
-    const val RX_JAVA = "2.2.19"
-    const val RX_ANDROID = "2.1.1"
+    const val RX_JAVA2 = "2.2.19"
+    const val RX_ANDROID2 = "2.1.1"
     const val RX_JAVA3 = "3.0.4"
     const val RX_ANDROID3 = "3.0.0"
 
-    const val FIREBASE_ADS = "19.2.0"
+    const val FIREBASE_CORE = "17.4.4"
+    const val FIREBASE_ADS = "19.3.0"
 
     const val GSON = "2.8.6"
     const val JUNIT = "4.13"
