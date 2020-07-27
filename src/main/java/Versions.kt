@@ -52,6 +52,6 @@ object Versions {
     const val JUNIT = "4.13"
     const val DAGGER = "2.28"
     const val RETROFIT = "2.3.0"
-    const val FABRIC_CRASHLYTICS = "2.10.1@aar"
+    const val FABRIC_CRASHLYTICS = "2.10.1"
 
 }
