@@ -29,7 +29,7 @@ object Versions {
     const val ANDROIDX_LIFECYCLE = "2.2.0"
     const val ANDROIDX_JUNIT = "1.1.2"
     const val ANDROIDX_RULES = "1.3.0"
-    const val ANDROIDX_EXPRESSO = "3.2.0"
+    const val ANDROIDX_EXPRESSO = "3.3.0"
     const val ANDROIDX_HILT = "1.0.0-alpha01"
     const val ANDROIDX_KTX_FRAGMENT = "1.2.5"
     const val ANDROIDX_KTX_RX_TO_LIVEDATA = "2.2.0"
@@ -38,6 +38,7 @@ object Versions {
     const val ANDROIDX_SUPPORT_V4 = "1.0.0"
     const val ANDROIDX_ROOM = "2.2.5"
     const val ANDROIDX_MEDIA = "1.1.0"
+    const val ANDROIDX_ANNOTATIONS = "1.1.0"
 
     const val ANDROID_BILLING_CLIENT = "3.0.0"
 
