@@ -17,17 +17,18 @@ object Versions {
 
     val COMPAT_JAVA_VERSION = JavaVersion.VERSION_1_8
 
-    const val ANDROIDX_APPCOMPAT = "1.1.0"
+    const val ANDROIDX_APPCOMPAT = "1.2.0"
     const val ANDROIDX_BROWSER = "1.2.0"
     const val ANDROIDX_SWIPE_REFRESH = "1.1.0"
-    const val ANDROIDX_MATERIAL = "1.1.0"
+    const val ANDROIDX_MATERIAL = "1.2.0"
     const val ANDROIDX_RECYCLERVIEW = "1.1.0"
     const val ANDROIDX_CONSTRAINT = "1.1.3"
     const val ANDROIDX_CARD_VIEW = "1.0.0"
     const val ANDROIDX_MULTIDEX = "2.0.1"
     const val ANDROIDX_KOTLIN = "1.3.0"
     const val ANDROIDX_LIFECYCLE = "2.2.0"
-    const val ANDROIDX_JUNIT = "1.1.1"
+    const val ANDROIDX_JUNIT = "1.1.2"
+    const val ANDROIDX_RULES = "1.3.0"
     const val ANDROIDX_EXPRESSO = "3.2.0"
     const val ANDROIDX_HILT = "1.0.0-alpha01"
     const val ANDROIDX_KTX_FRAGMENT = "1.2.5"
@@ -45,7 +46,7 @@ object Versions {
     const val RX_JAVA3 = "3.0.4"
     const val RX_ANDROID3 = "3.0.0"
 
-    const val FIREBASE_CORE = "17.4.4"
+    const val FIREBASE_CORE = "17.5.0"
     const val FIREBASE_ADS = "19.3.0"
 
     const val GSON = "2.8.6"
@@ -53,5 +54,6 @@ object Versions {
     const val DAGGER = "2.28"
     const val RETROFIT = "2.3.0"
     const val FABRIC_CRASHLYTICS = "2.10.1"
+    const val ROBOLECTRIC = "3.8"
 
 }
