@@ -53,8 +53,9 @@ object Versions {
     const val GSON = "2.8.6"
     const val JUNIT = "4.13"
     const val DAGGER = "2.28"
-    const val RETROFIT = "2.3.0"
+    const val RETROFIT = "2.4.0"
     const val FABRIC_CRASHLYTICS = "2.10.1"
     const val ROBOLECTRIC = "3.8"
+    const val GLIDE = "4.11.0"
 
 }
