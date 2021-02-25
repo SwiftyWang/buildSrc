@@ -29,7 +29,7 @@ object Versions {
     const val ANDROIDX_LIFECYCLE = "2.2.0"
     const val ANDROIDX_JUNIT = "1.1.2"
     const val ANDROIDX_RULES = "1.3.0"
-    const val ANDROIDX_EXPRESSO = "3.3.0"
+    const val ANDROIDX_ESPRESSO = "3.3.0"
     const val ANDROIDX_HILT = "1.0.0-alpha02"
     const val ANDROIDX_KTX_FRAGMENT = "1.2.5"
     const val ANDROIDX_KTX_RX_TO_LIVEDATA = "2.2.0"
