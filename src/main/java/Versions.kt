@@ -4,7 +4,7 @@ object Versions {
 
     const val ANDROID = "4.0.0"
     const val GMS = "4.3.3"
-    const val KOTLIN = "1.4.10"
+    const val KOTLIN = "1.4.21-2"
 
     const val OBJECT_BOX = "2.6.0"
 
@@ -13,25 +13,25 @@ object Versions {
     const val GOOGLE_SERVICES = "4.3.3"
 
     const val NAVIGATION = "2.2.2"
-    const val HILT = "2.28-alpha"
+    const val HILT = "2.33-beta"
 
     val COMPAT_JAVA_VERSION = JavaVersion.VERSION_1_8
 
     const val ANDROIDX_APPCOMPAT = "1.2.0"
     const val ANDROIDX_BROWSER = "1.2.0"
     const val ANDROIDX_SWIPE_REFRESH = "1.1.0"
-    const val ANDROIDX_MATERIAL = "1.2.0"
+    const val ANDROIDX_MATERIAL = "1.3.0"
     const val ANDROIDX_RECYCLERVIEW = "1.1.0"
     const val ANDROIDX_CONSTRAINT = "2.0.4"
     const val ANDROIDX_CARD_VIEW = "1.0.0"
     const val ANDROIDX_MULTIDEX = "2.0.1"
     const val ANDROIDX_KOTLIN = "1.3.2"
-    const val ANDROIDX_LIFECYCLE = "2.2.0"
+    const val ANDROIDX_LIFECYCLE = "2.3.0"
     const val ANDROIDX_JUNIT = "1.1.2"
     const val ANDROIDX_RULES = "1.3.0"
     const val ANDROIDX_ESPRESSO = "3.3.0"
-    const val ANDROIDX_HILT = "1.0.0-alpha02"
-    const val ANDROIDX_KTX_FRAGMENT = "1.2.5"
+    const val ANDROIDX_HILT = "1.0.0-alpha03"
+    const val ANDROIDX_KTX_FRAGMENT = "1.3.0"
     const val ANDROIDX_KTX_RX_TO_LIVEDATA = "2.2.0"
     const val ANDROIDX_NAVIGATION = "2.3.1"
     const val ANDROIDX_VIEWPAGER2 = "1.0.0"
