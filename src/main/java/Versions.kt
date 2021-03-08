@@ -39,6 +39,7 @@ object Versions {
     const val ANDROIDX_ROOM = "2.2.5"
     const val ANDROIDX_MEDIA = "1.1.0"
     const val ANDROIDX_ANNOTATIONS = "1.1.0"
+    const val ANDROIDX_WORK = "2.5.0"
 
     const val ANDROID_BILLING_CLIENT = "3.0.0"
 
