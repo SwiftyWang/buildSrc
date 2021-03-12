@@ -3,7 +3,7 @@ import org.gradle.api.JavaVersion
 object Versions {
 
     const val ANDROID = "4.0.0"
-    const val GMS = "4.3.3"
+    const val GMS = "4.3.5"
     const val KOTLIN = "1.4.21-2"
 
     const val OBJECT_BOX = "2.6.0"
@@ -50,6 +50,7 @@ object Versions {
 
     const val FIREBASE_CORE = "17.5.0"
     const val FIREBASE_ADS = "19.3.0"
+    const val FIREBASE_BOM = "26.7.0"
 
     const val GSON = "2.8.6"
     const val JUNIT = "4.13"
