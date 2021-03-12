@@ -51,6 +51,7 @@ object Versions {
     const val FIREBASE_CORE = "17.5.0"
     const val FIREBASE_ADS = "19.3.0"
     const val FIREBASE_BOM = "26.7.0"
+    const val FIREBASE_CRASHLYTICS_GRADLE = "2.5.1"
 
     const val GSON = "2.8.6"
     const val JUNIT = "4.13"
