@@ -26,7 +26,7 @@ object Versions {
     const val ANDROIDX_CARD_VIEW = "1.0.0"
     const val ANDROIDX_MULTIDEX = "2.0.1"
     const val ANDROIDX_KOTLIN = "1.3.2"
-    const val ANDROIDX_LIFECYCLE = "2.3.0"
+    const val ANDROIDX_LIFECYCLE = "2.3.1"
     const val ANDROIDX_JUNIT = "1.1.2"
     const val ANDROIDX_RULES = "1.3.0"
     const val ANDROIDX_ESPRESSO = "3.3.0"
@@ -37,7 +37,7 @@ object Versions {
     const val ANDROIDX_VIEWPAGER2 = "1.0.0"
     const val ANDROIDX_SUPPORT_V4 = "1.0.0"
     const val ANDROIDX_ROOM = "2.2.5"
-    const val ANDROIDX_MEDIA = "1.1.0"
+    const val ANDROIDX_MEDIA = "1.3.0"
     const val ANDROIDX_ANNOTATIONS = "1.1.0"
     const val ANDROIDX_WORK = "2.5.0"
 
@@ -48,13 +48,13 @@ object Versions {
     const val RX_JAVA3 = "3.0.4"
     const val RX_ANDROID3 = "3.0.0"
 
-    const val FIREBASE_CORE = "17.5.0"
+    const val FIREBASE_CORE = "18.0.3"
     const val FIREBASE_ADS = "19.3.0"
     const val FIREBASE_BOM = "26.7.0"
     const val FIREBASE_CRASHLYTICS_GRADLE = "2.5.1"
 
     const val GSON = "2.8.6"
-    const val JUNIT = "4.13"
+    const val JUNIT = "4.13.2"
     const val DAGGER = "2.28"
     const val RETROFIT = "2.9.0"
     const val FABRIC_CRASHLYTICS = "2.10.1"
