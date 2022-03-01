@@ -17,7 +17,7 @@ object Versions {
 
     val COMPAT_JAVA_VERSION = JavaVersion.VERSION_1_8
 
-    const val ANDROIDX_APPCOMPAT = "1.2.0"
+    const val ANDROIDX_APPCOMPAT = "1.3.0"
     const val ANDROIDX_BROWSER = "1.2.0"
     const val ANDROIDX_SWIPE_REFRESH = "1.1.0"
     const val ANDROIDX_MATERIAL = "1.3.0"
