@@ -6,10 +6,9 @@ object Versions {
     const val GMS = "4.3.5"
     const val KOTLIN = "1.5.21"
 
-    const val OBJECT_BOX = "2.6.0"
+    const val OBJECT_BOX = "3.1.3" // 3.2.1+ need kotlin 1.7
 
     const val BENCHMARK = "1.0.0"
-    const val FABRIC_GRADLE = "1.31.2"
     const val GOOGLE_SERVICES = "4.3.3"
 
     const val NAVIGATION = "2.2.2"
@@ -51,13 +50,11 @@ object Versions {
     const val FIREBASE_CORE = "18.0.3"
     const val FIREBASE_ADS = "21.1.0"
     const val FIREBASE_BOM = "26.7.0"
-    const val FIREBASE_CRASHLYTICS_GRADLE = "2.5.1"
 
     const val GSON = "2.9.0"
     const val JUNIT = "4.13.2"
-    const val DAGGER = "2.28"
+    const val DAGGER = "2.38.1"
     const val RETROFIT = "2.9.0"
-    const val FABRIC_CRASHLYTICS = "2.10.1"
     const val ROBOLECTRIC = "3.8"
     const val GLIDE = "4.11.0"
 
