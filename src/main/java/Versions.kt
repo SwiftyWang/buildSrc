@@ -47,9 +47,9 @@ object Versions {
     const val RX_JAVA3 = "3.0.13"
     const val RX_ANDROID3 = "3.0.0"
 
-    const val FIREBASE_CORE = "18.0.3"
+    const val FIREBASE_CORE = "21.0.1"
     const val FIREBASE_ADS = "21.1.0"
-    const val FIREBASE_BOM = "26.7.0"
+    const val FIREBASE_BOM = "32.1.0"
 
     const val GSON = "2.9.0"
     const val JUNIT = "4.13.2"
