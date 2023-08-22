@@ -40,7 +40,7 @@ object Versions {
     const val ANDROIDX_ANNOTATIONS = "1.3.0"
     const val ANDROIDX_WORK = "2.5.0"
 
-    const val ANDROID_BILLING_CLIENT = "4.1.0"
+    const val ANDROID_BILLING_CLIENT = "6.0.1"
 
     const val RX_JAVA2 = "2.2.19"
     const val RX_ANDROID2 = "2.1.1"
