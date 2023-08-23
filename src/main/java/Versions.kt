@@ -2,7 +2,7 @@ import org.gradle.api.JavaVersion
 
 object Versions {
 
-    const val ANDROID = "4.2.2"
+    const val ANDROID = "7.2.2"
     const val GMS = "4.3.5"
     const val KOTLIN = "1.7.21"
 
@@ -14,7 +14,7 @@ object Versions {
     const val NAVIGATION = "2.2.2"
     const val HILT = "2.33-beta"
 
-    val COMPAT_JAVA_VERSION = JavaVersion.VERSION_1_8
+    val COMPAT_JAVA_VERSION = JavaVersion.VERSION_11
 
     const val ANDROIDX_APPCOMPAT = "1.4.2"
     const val ANDROIDX_BROWSER = "1.2.0"
