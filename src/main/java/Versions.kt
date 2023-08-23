@@ -4,7 +4,7 @@ object Versions {
 
     const val ANDROID = "4.2.2"
     const val GMS = "4.3.5"
-    const val KOTLIN = "1.5.21"
+    const val KOTLIN = "1.7.21"
 
     const val OBJECT_BOX = "3.1.3" // 3.2.1+ need kotlin 1.7
 
