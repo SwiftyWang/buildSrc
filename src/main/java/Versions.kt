@@ -35,7 +35,7 @@ object Versions {
     const val ANDROIDX_NAVIGATION = "2.3.1"
     const val ANDROIDX_VIEWPAGER2 = "1.0.0"
     const val ANDROIDX_SUPPORT_V4 = "1.0.0"
-    const val ANDROIDX_ROOM = "2.2.5"
+    const val ANDROIDX_ROOM = "2.5.2"
     const val ANDROIDX_MEDIA = "1.3.0"
     const val ANDROIDX_ANNOTATIONS = "1.3.0"
     const val ANDROIDX_WORK = "2.5.0"
@@ -47,7 +47,6 @@ object Versions {
     const val RX_JAVA3 = "3.0.13"
     const val RX_ANDROID3 = "3.0.0"
 
-    const val FIREBASE_CORE = "21.0.1"
     const val FIREBASE_ADS = "21.1.0"
     const val FIREBASE_BOM = "32.1.0"
 
