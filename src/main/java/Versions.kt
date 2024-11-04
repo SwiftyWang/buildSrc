@@ -3,7 +3,7 @@ import org.gradle.api.JavaVersion
 object Versions {
 
     const val ANDROID = "8.4.2"
-    const val GMS = "4.3.5"
+    const val GMS = "4.4.2"
     const val KOTLIN = "1.9.25"
 
     const val OBJECT_BOX = "4.0.3" // 3.2.1+ need kotlin 1.7
@@ -48,7 +48,7 @@ object Versions {
     const val RX_ANDROID3 = "3.0.0"
 
     const val FIREBASE_ADS = "23.5.0"
-    const val FIREBASE_BOM = "32.1.0"
+    const val FIREBASE_BOM = "33.5.1"
 
     const val GSON = "2.10.1"
     const val JUNIT = "4.13.2"
