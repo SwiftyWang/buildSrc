@@ -42,7 +42,7 @@ object Versions {
 
     const val ANDROID_BILLING_CLIENT = "6.2.0"
 
-    const val RX_JAVA2 = "2.2.19"
+    const val RX_JAVA2 = "2.2.21"
     const val RX_ANDROID2 = "2.1.1"
     const val RX_JAVA3 = "3.0.13"
     const val RX_ANDROID3 = "3.0.0"
@@ -53,7 +53,7 @@ object Versions {
     const val GSON = "2.10.1"
     const val JUNIT = "4.13.2"
     const val DAGGER = "2.50"
-    const val RETROFIT = "2.9.0"
+    const val RETROFIT = "2.11.0"
     const val ROBOLECTRIC = "3.8"
     const val GLIDE = "4.11.0"
 
