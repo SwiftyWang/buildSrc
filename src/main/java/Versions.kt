@@ -10,6 +10,7 @@ object Versions {
 
     const val BENCHMARK = "1.0.0"
     const val GOOGLE_SERVICES = "4.3.3"
+    const val FIREBASE_CRASHLYTICS = "3.0.2"
 
     const val NAVIGATION = "2.2.2"
     const val HILT = "2.33-beta"
