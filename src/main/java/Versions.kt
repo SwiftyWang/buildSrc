@@ -26,7 +26,7 @@ object Versions {
     const val ANDROIDX_CARD_VIEW = "1.0.0"
     const val ANDROIDX_MULTIDEX = "2.0.1"
     const val ANDROIDX_KOTLIN = "1.3.2"
-    const val ANDROIDX_LIFECYCLE = "2.5.1"
+    const val ANDROIDX_LIFECYCLE = "2.8.7"
     const val ANDROIDX_JUNIT = "1.2.1"
     const val ANDROIDX_RULES = "1.3.0"
     const val ANDROIDX_ESPRESSO = "3.6.1"
@@ -37,7 +37,7 @@ object Versions {
     const val ANDROIDX_VIEWPAGER2 = "1.0.0"
     const val ANDROIDX_SUPPORT_V4 = "1.0.0"
     const val ANDROIDX_ROOM = "2.5.2"
-    const val ANDROIDX_MEDIA = "1.3.0"
+    const val ANDROIDX_MEDIA = "1.7.0"
     const val ANDROIDX_ANNOTATIONS = "1.3.0"
     const val ANDROIDX_WORK = "2.5.0"
 
