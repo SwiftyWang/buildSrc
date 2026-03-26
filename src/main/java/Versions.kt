@@ -6,7 +6,7 @@ object Versions {
     const val GMS = "4.4.2"
     const val KOTLIN = "1.9.25"
 
-    const val OBJECT_BOX = "4.0.3" // 3.2.1+ need kotlin 1.7
+    const val OBJECT_BOX = "4.3.1" // 4.1.0+ supports 16KB page size
 
     const val BENCHMARK = "1.0.0"
     const val GOOGLE_SERVICES = "4.3.3"
