@@ -53,7 +53,7 @@ object Versions {
 
     const val GSON = "2.10.1"
     const val JUNIT = "4.13.2"
-    const val DAGGER = "2.50"
+    const val DAGGER = "2.60.1" // 2.5x can't read Kotlin 2.2 metadata (kotlinx-metadata-jvm too old)
     const val RETROFIT = "2.11.0"
     const val ROBOLECTRIC = "3.8"
     const val GLIDE = "4.11.0"
