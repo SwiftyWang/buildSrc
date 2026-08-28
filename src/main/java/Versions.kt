@@ -2,9 +2,9 @@ import org.gradle.api.JavaVersion
 
 object Versions {
 
-    const val ANDROID = "8.4.2"
+    const val ANDROID = "8.13.2"
     const val GMS = "4.4.2"
-    const val KOTLIN = "1.9.25"
+    const val KOTLIN = "2.2.20"
 
     const val OBJECT_BOX = "4.3.1" // 4.1.0+ supports 16KB page size
 
@@ -41,7 +41,7 @@ object Versions {
     const val ANDROIDX_ANNOTATIONS = "1.3.0"
     const val ANDROIDX_WORK = "2.5.0"
 
-    const val ANDROID_BILLING_CLIENT = "7.1.1"
+    const val ANDROID_BILLING_CLIENT = "8.3.0"
 
     const val RX_JAVA2 = "2.2.21"
     const val RX_ANDROID2 = "2.1.1"
