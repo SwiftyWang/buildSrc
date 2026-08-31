@@ -17,11 +17,11 @@ object Versions {
 
     val COMPAT_JAVA_VERSION = JavaVersion.VERSION_21
 
-    const val ANDROIDX_APPCOMPAT = "1.7.0"
+    const val ANDROIDX_APPCOMPAT = "1.8.0"
     const val ANDROIDX_BROWSER = "1.8.0"
     const val ANDROIDX_SWIPE_REFRESH = "1.1.0"
-    const val ANDROIDX_MATERIAL = "1.12.0"
-    const val ANDROIDX_RECYCLERVIEW = "1.3.2"
+    const val ANDROIDX_MATERIAL = "1.14.0"
+    const val ANDROIDX_RECYCLERVIEW = "1.4.0"
     const val ANDROIDX_CONSTRAINT = "2.2.0"
     const val ANDROIDX_CARD_VIEW = "1.0.0"
     const val ANDROIDX_MULTIDEX = "2.0.1"
